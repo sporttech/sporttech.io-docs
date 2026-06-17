@@ -11,7 +11,7 @@ When **Use judge score confirmation** is enabled for an event, each judge must c
 
 ## Workflow overview
 
-OC enables the setting and runs a routine. The judge enters a mark (for example an E deduction). The OC sees the value without a lock. The judge taps **Confirm score** and accepts the dialog. The OC then sees the locked column and may reset confirmation if the judge must change the mark.
+OC enables the setting and runs a routine. The judge enters an E deduction. The OC sees the value without a lock. The judge taps **Confirm score** and accepts the dialog. The OC then sees the locked column and may reset confirmation if the judge must change the mark.
 
 ## Step-by-step
 
@@ -19,7 +19,7 @@ OC enables the setting and runs a routine. The judge enters a mark (for example 
 
 Log in to OVS with your OC credentials before changing event settings or running routines.
 
-### 2. Enable judge score confirmation
+### 2. Enable judge score confirmation in settings
 
 Open **Settings** and go to **Event configuration**. Enable **Use judge score confirmation**. This applies to all apparatus panels for the event.
 
@@ -27,9 +27,9 @@ Open **Settings** and go to **Event configuration**. Enable **Use judge score co
 
 *Enable **Use judge score confirmation** in event settings.*
 
-### 3. Open the stage and run a routine
+### 3. Open MAG stage and run a routine (OC)
 
-Open the competition stage (for example MAG), select a routine from the start list, start it, and finish it. Judges can enter marks after the routine is finished.
+Open the MAG competition stage, select a routine from the start list, start it, and finish it. Judges can enter marks after the routine is finished.
 
 ![Stage control page with routine selected and finished](assets/judge-confirmation/03-oc.png)
 
@@ -39,7 +39,7 @@ Open the competition stage (for example MAG), select a routine from the start li
 
 On the judge tablet, log in as E1 for the panel that covers this routine. The E deductions input becomes editable after the routine is finished.
 
-### 5. Enter the E deduction on the judge tablet
+### 5. Enter E deduction on judge tablet
 
 Enter the mark in the E deductions field. When the value is saved but not yet confirmed, **Confirm score** appears below the inputs.
 
@@ -47,7 +47,7 @@ Enter the mark in the E deductions field. When the value is saved but not yet co
 
 *Enter the mark; **Confirm score** appears when the value is saved but not confirmed.*
 
-### 6. Check the score on the OC page (pending)
+### 6. OC sees entered score without confirmation lock
 
 On the stage control page, the E1 column shows the judge’s value. There is no lock icon in the **Confirmations** row until the judge confirms.
 
@@ -55,7 +55,7 @@ On the stage control page, the E1 column shows the judge’s value. There is no 
 
 *The E1 value is visible on OC; no lock until the judge confirms.*
 
-### 7. Confirm the score on the judge tablet
+### 7. Confirm score on judge tablet
 
 Tap **Confirm score**. In the dialog, confirm that your marks are final (**Confirm that your marks are final?**). After confirmation, the E input is hidden on the judge tablet.
 
@@ -63,7 +63,7 @@ Tap **Confirm score**. In the dialog, confirm that your marks are final (**Confi
 
 *Tap **Confirm score** and accept the confirmation dialog.*
 
-### 8. Check the confirmed column on the OC page
+### 8. OC sees confirmed E1 column
 
 The E1 column shows the lock/unlock control. OC can use **Reset confirmation** if the judge must edit the mark again.
 
@@ -71,7 +71,7 @@ The E1 column shows the lock/unlock control. OC can use **Reset confirmation** i
 
 *Confirmed E1 column with lock control on OC.*
 
-### 9. Reset confirmation on the OC page
+### 9. Reset confirmation on OC
 
 Click the unlock control in the E1 column. The judge can enter and confirm marks again.
 
