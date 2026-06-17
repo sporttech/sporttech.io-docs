@@ -27,3 +27,15 @@ tablet.
 
 Related assets are stored in
 [assets/manual-hd](assets/manual-hd).
+
+### AG Judge Score Confirmation
+
+[Judge score confirmation (AG)](AG-Judge-Confirmation.md)
+
+A step-by-step guide for artistic gymnastics events that use judge score
+confirmation: enabling the event setting, entering a judge mark, confirming it
+on the judge tablet, checking the locked state on the OC page, and resetting
+confirmation when a judge needs to edit the mark.
+
+Related assets are stored in
+[assets/judge-confirmation](assets/judge-confirmation).
