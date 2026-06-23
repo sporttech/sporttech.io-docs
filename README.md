@@ -48,6 +48,18 @@ confirmation when a judge needs to edit the mark.
 Related assets are stored in
 [assets/judge-confirmation](assets/judge-confirmation).
 
+### AG Per-Apparatus Qualification and Advance
+
+[Per-apparatus qualification and advance to apparatus final (AG)](AG-Apparatus-Advance.md)
+
+A step-by-step guide for artistic gymnastics qualification stages: setting
+per-apparatus limits (will qualify, in reserve, maximum from one region),
+reviewing Q marks on apparatus results, and advancing qualified gymnasts to the
+linked apparatus final.
+
+Related assets are stored in
+[assets/apparatus-advance](assets/apparatus-advance).
+
 ## Adding New Content
 
 1. Add a new Markdown page at the repository root, or inside a topic directory
