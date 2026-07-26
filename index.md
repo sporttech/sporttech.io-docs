@@ -51,3 +51,15 @@ linked apparatus final.
 
 Related assets are stored in
 [assets/apparatus-advance](assets/apparatus-advance).
+
+### FIG XML export
+
+[Prepare event data for FIG XML export](FIG-XML-Export.md)
+
+A checklist for competitions that submit results in FIG XML: FIG event details,
+age group and gender, judge panels, alternative Representing (AIN), group
+numbers, and — for RG groups — marking which five gymnasts are on the floor
+via In/Out statuses before download and JEP validation.
+
+Related assets are stored in
+[assets/fig-xml-export](assets/fig-xml-export).
